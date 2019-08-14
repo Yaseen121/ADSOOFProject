@@ -1,4 +1,4 @@
-
+//OLD ATTEMPT//
 public class WordStoreImp3 implements WordStore {
 	private WordStorage3[] wordStorage;
 	private static int MAX_SIZE = 1000000;
