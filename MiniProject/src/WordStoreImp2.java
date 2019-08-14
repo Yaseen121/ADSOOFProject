@@ -1,5 +1,4 @@
-
-
+//OLD ATTEMPT//
 public class WordStoreImp2 implements WordStore {
 	private WordStorage2[] wordStorage;
 	private int size;
