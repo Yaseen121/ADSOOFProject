@@ -1,4 +1,4 @@
-
+//OLD ATTEMPT//
 public class WordStoreImp1 implements WordStore {
 	
 	private String[] words;
