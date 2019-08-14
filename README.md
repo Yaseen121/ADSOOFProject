@@ -1,4 +1,4 @@
-# Algorithms and Data Structures in an Object Oriented Framework Project - A Word Storage Data Structure Implementation 
+# Algorithms and Data Structures in an Object Oriented Framework Project - A Word Storage Data Structure Implementation (Winter 2017)
 
 A word storage data structure built in Java.
 
