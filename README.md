@@ -1,6 +1,6 @@
 # Algorithms and Data Structures in an Object Oriented Framework Project - A Word Storage Data Structure Implementation 
 
-A simple text-based virtual dinosaur pet program built using Java.
+A word storage data structure built in Java.
 
 ### Overview
 
